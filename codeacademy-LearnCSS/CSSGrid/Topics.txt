@@ -1,0 +1,24 @@
+Topics covered in this chapter include:
+
+1. grid-template-columns:
+defines the number and sizes of the columns of the grid.
+
+2. grid-template-rows
+defines the number and sizes of the rows of the grid.
+
+3. grid-template
+shorthand for defining both grid-template-columns and grid-template-rows
+in one line.
+
+4. grid-gap:
+puts blank space between rows and/or columns in the grid.
+
+5. grid-row-start and grid-row-end:
+makes elements span certain rows of the grid.
+
+6. grid-columns-start and grid-column-end:
+makes elements span certain columns of the grid.
+
+7. grid-area:
+shorthand for grid-row-start, grid-column-start, grid-row-end, grid-column-end
+all in one line

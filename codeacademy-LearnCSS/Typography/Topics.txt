@@ -1,0 +1,14 @@
+A list of the topics covered in this section:
+
+1. Typography.
+2. font-weight property.
+3. font-style property.
+4. line-height property.
+5. Difference between serif and sans-serif fonts.
+6. What are fallback fonts
+7. Google Fonts via <link> tag or @font-face property.
+8. Adding local fonts to a doc with @font-face property and the path to the
+font's source.
+9. word-spacing property and how to use.
+10. letter-spacing property and how to use.
+11. text-align property and how to use. 

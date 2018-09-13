@@ -1,0 +1,34 @@
+Topics covered in this section include:
+
+1. grid-template-areas:
+specifies grid named grid areas.
+
+2. grid layouts are two-dimensional:
+they have a row, inline, axis and a column, or block, axis.
+
+3. justify-items:
+specifies how individual elements should spread across row axis.
+
+4. justify-content:
+specifies how groups of elements should spread across row axis.
+
+5. justify-self:
+specifies how a single element should position itself with respect to row axis.
+
+6. align-items:
+specifies how individual elements should spread across column axis.
+
+7. align-content:
+specifies how groups of elements should spread across column axis.
+
+8. align-self:
+specifies how a single element should position itself
+with respect to column axis.
+
+9. grid-auto-rows:
+specifies height of rows added implicitly to grid.
+
+10. grid-auto-columns:
+specifies width of columns added implicitly to the grid.
+
+11. grid-auto-flow: specifies which direction implicit elements should be created.
