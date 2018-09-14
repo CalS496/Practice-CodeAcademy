@@ -1,0 +1,7 @@
+Using the Twitter API requires a Twitter account and authentication with the
+Twitter Developer site. Once this is done, the website will provide a key in
+order to properly use the API.
+
+The twitter handle I used was @DashieXP, I am in way affiliated with @DashieXP,
+just a personal fan. His twitter handle was the first thing that popped in my
+head when I was working on this. 

@@ -1,0 +1,10 @@
+Watson API credentials have been removed for privacy sake.
+In order to reuse the code, the Watson credentials must
+be reimplemented.
+
+Code currently does not work on Codecademy. Following some
+Google research, it seems that this is a long occurring bug
+on Codecademy's part. However, everything else seems to
+pass and there is no problems with compilation or running
+the python program, only nothing shows up on the emulator
+on the site.

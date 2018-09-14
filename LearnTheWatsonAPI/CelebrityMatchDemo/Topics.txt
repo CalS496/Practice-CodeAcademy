@@ -1,0 +1,13 @@
+Topics covered in this chapter are:
+
+General: Building a fully-functional, Watson-powered application
+that is capable of the following functions:
+
+1. Queries the Twitter API.
+
+2. Queries the Watson Personality Insights API.
+
+3. Compares two bodies of texts (tweets) from two Twitter users.
+
+4. Displays the top 5 personality traits shared between the two
+Twitter users.

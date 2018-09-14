@@ -1,0 +1,6 @@
+The 'CelebrityMatch.py' code requires a PersonalityInsights username and
+password that is automatically generated from creating a PersonalityInsights
+instance. I have removed my credentials for uploading, but to use it requires
+it to be reimplemented.
+
+The details to do so can be found in the course on Codecademy.
