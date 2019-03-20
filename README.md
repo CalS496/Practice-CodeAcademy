@@ -6,4 +6,4 @@ As the description states, this repository is a collection of the practice code 
 
 All copyrights and content belong to CodeAcademy, I am merely uploading the code that I have written over it. I would like to thank the people of CodeAcademy for the learning experience.
 
-*/I plan to rewrite the copyright claims should it not be sufficient for Github uploading. Review the markdown language if necessary.
+<I plan to rewrite the copyright claims should it not be sufficient for Github uploading. Review the markdown language if necessary.>
